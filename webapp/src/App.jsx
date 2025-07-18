@@ -20,16 +20,16 @@ function Section() {
 
 function Sidebar({ open, setOpen }) {
   return (
-    <aside className={`bg-gray-100 dark:bg-gray-800 md:w-64 p-4 overflow-y-auto fixed md:static inset-y-0 left-0 transform ${open ? 'translate-x-0' : '-translate-x-full'} md:translate-x-0 transition-transform duration-200 z-50`}>
+    <aside className={`bg-[#0d1117] text-[#f0f6fc] border-r border-[#3d444d] md:w-64 p-4 overflow-y-auto fixed md:static inset-y-0 left-0 transform ${open ? 'translate-x-0' : '-translate-x-full'} md:translate-x-0 transition-transform duration-200 z-50`}>
       <button className="md:hidden mb-4" onClick={() => setOpen(false)}>Close</button>
       <nav>
         {sections.map(sec => (
           <div key={sec.slug} className="mb-2">
-            <Link className="font-semibold block" to={`/${sec.slug}`} onClick={() => setOpen(false)}>{sec.title}</Link>
+            <Link className="font-semibold block text-[#58a6ff]" to={`/${sec.slug}`} onClick={() => setOpen(false)}>{sec.title}</Link>
             <ul className="ml-4">
               {sec.subsections.map(sub => (
                 <li key={sub.slug}>
-                  <Link to={`/${sec.slug}/${sub.slug}`} onClick={() => setOpen(false)} className="text-sm">
+                  <Link to={`/${sec.slug}/${sub.slug}`} onClick={() => setOpen(false)} className="text-sm text-[#58a6ff]">
                     {sub.title}
                   </Link>
                 </li>
@@ -50,7 +50,7 @@ export default function App() {
       <div className="flex">
         <Sidebar open={open} setOpen={setOpen} />
         <div className="flex-1 md:ml-64">
-          <header className="md:hidden p-2 border-b">
+          <header className="md:hidden p-2 border-b bg-[#151b23] text-[#f0f6fc] border-[#3d444d]">
             <button onClick={() => setOpen(true)}>Menu</button>
           </header>
           <Routes>
