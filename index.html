@@ -9,6 +9,16 @@
     <link rel="stylesheet" crossorigin href="/assets/index-tn0RQdqM.css">
   </head>
   <body class="min-h-screen bg-[#0d1117] text-[#f0f6fc]">
+    <nav>
+      <!-- existing links -->
+      <a href="/information-hub/israel-palestine">Israel-Palestine Historical Timeline</a>
+      <button id="toc-toggle" class="toc-button">☰</button>
+    </nav>
     <div id="root"></div>
+    <script>
+      document.getElementById('toc-toggle').addEventListener('click', () => {
+        document.body.classList.toggle('show-toc');
+      });
+    </script>
   </body>
 </html>
