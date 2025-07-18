@@ -23,7 +23,7 @@ The Dead Sea Basin, one of the most prominent geological features of the region,
 
 Throughout its geological history, the region has experienced significant climatic changes, transitioning from tropical conditions during the Mesozoic to arid desert landscapes in the Cenozoic. These changes have shaped the area's biodiversity and the availability of resources, influencing its habitability for early humans and later civilizations. 
 
-* * * * *
+
 
 ### Source Information
 
