@@ -46,7 +46,7 @@ export default function App() {
   const [open, setOpen] = useState(false)
   const first = sections[0]?.slug || ''
   return (
-    <BrowserRouter basename="/information-hub/israel-palestine">
+    <BrowserRouter basename="/">
       <div className="flex">
         <Sidebar open={open} setOpen={setOpen} />
         <div className="flex-1 md:ml-64">
