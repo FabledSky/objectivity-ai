@@ -1,4 +1,4 @@
-# Objectivity AI Framework
+# Objectivity AI™ Framework
 
 *Version 1.1 — Last Updated July 2025*
 
@@ -30,13 +30,13 @@
 
 ## **Introduction**
 
-The Objectivity AI Framework is a comprehensive, field-tested methodology for collecting, processing, analyzing, and reporting information using advanced AI systems with a focus on *factuality, transparency, and bias mitigation*. Designed by Fabled Sky Research, this framework powers projects that require high-stakes accuracy, such as conflict reporting, public health monitoring, institutional decision support, and any domain where misinformation or selective narrative can have outsized consequences.
+The Objectivity AI™ Framework is a comprehensive, field-tested methodology for collecting, processing, analyzing, and reporting information using advanced AI systems with a focus on *factuality, transparency, and bias mitigation*. Designed by Fabled Sky Research, this framework powers projects that require high-stakes accuracy, such as conflict reporting, public health monitoring, institutional decision support, and any domain where misinformation or selective narrative can have outsized consequences.
 
 ---
 
 ## **Ultimate Purpose**
 
-The Objectivity AI Framework exists to **empower users, organizations, and the public with information that is as close to the objective truth as possible**—free from distortion, omission, manipulation, or hidden bias. In a world of information overload and increasing polarization, this framework enables clear, reliable, and context-rich analysis.
+The Objectivity AI™ Framework exists to **empower users, organizations, and the public with information that is as close to the objective truth as possible**—free from distortion, omission, manipulation, or hidden bias. In a world of information overload and increasing polarization, this framework enables clear, reliable, and context-rich analysis.
 
 The end goal is:
 
@@ -309,7 +309,7 @@ Any data or output failing these minimums must be flagged for review or excluded
 
 ## **Further Reading & References**
 
-* [Objectivity AI and the Reality of Bias (Fabled Sky Research)](https://fabledsky.com/technical-briefing/objectivity-ai-and-the-reality-of-bias-why-factuality-not-neutrality-is-the-true-standard/)
+* [Objectivity AI™ and the Reality of Bias (Fabled Sky Research)](https://fabledsky.com/technical-briefing/objectivity-ai-and-the-reality-of-bias-why-factuality-not-neutrality-is-the-true-standard/)
 * [Transparency Statement (Fabled Sky Research)](https://fabledsky.com/objectivity-ai/transparency-statement/)
 * [AIO Standards v1.2.7 Documentation](https://aio.fabledsky.com/)
 * [UN OCHA Humanitarian Principles](https://www.unocha.org/publications/report/world/ocha-message-humanitarian-principles-enar)
@@ -334,4 +334,4 @@ Any data or output failing these minimums must be flagged for review or excluded
 
 # **End of Document**
 
-This is the **authoritative reference** for anyone using the Objectivity AI Framework. All analysis, reporting, or auditing should adhere to the standards and processes described herein.
+This is the **authoritative reference** for anyone using the Objectivity AI™ Framework. All analysis, reporting, or auditing should adhere to the standards and processes described herein.
