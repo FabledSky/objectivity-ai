@@ -339,7 +339,3 @@ Any data or output failing these minimums must be flagged for review or excluded
 # **End of Document**
 
 This is the **authoritative reference** for anyone using the Objectivity AI Framework. All analysis, reporting, or auditing should adhere to the standards and processes described herein.
-
----
-
-If you need this as a downloadable file, further customized, or broken into modules, just let me know!
