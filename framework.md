@@ -316,9 +316,9 @@ Any data or output failing these minimums must be flagged for review or excluded
 * [Objectivity AI and the Reality of Bias (Fabled Sky Research)](https://fabledsky.com/technical-briefing/objectivity-ai-and-the-reality-of-bias-why-factuality-not-neutrality-is-the-true-standard/)
 * [Transparency Statement (Fabled Sky Research)](https://fabledsky.com/objectivity-ai/transparency-statement/)
 * [AIO Standards v1.2.7 Documentation](https://aio.fabledsky.com/)
-* [UN OCHA Humanitarian Principles](https://www.unocha.org/sites/unocha/files/OOM-humanitarian-principles_eng_June12.pdf)
+* [UN OCHA Humanitarian Principles](https://www.unocha.org/publications/report/world/ocha-message-humanitarian-principles-enar)
 * [The Elements of Journalism (Bill Kovach & Tom Rosenstiel)](https://www.spj.org/ethicscode.asp)
-* [ICRC – Neutral, Impartial, and Independent Humanitarian Action](https://www.icrc.org/en/what-we-do/neutrality-impartiality)
+* [MSF – Mission impossible - humanitarianism is neutral or it is nothing](https://www.msf.org/mission-impossible-humanitarianism-neutral-or-it-nothing)
 
 ---
 
